@@ -21,7 +21,7 @@ Layer 1 acts as the "Shipping Container" standard for the decentralized web. It 
 | :--- | :--- | :--- | :--- | :--- |
 | **OATP** | **Open Agent Transport Protocol** | `1.0-RC` | ❄️ Freeze | The standard for encryption, sharding, routing, and the "Blind Relay" API. |
 
-👉 **[READ THE OATP SPECIFICATION](./RFC%20OATP%20v1.0-RC.en.md)**
+👉 **[READ THE OATP SPECIFICATION](./oatp-spec/specification/RFC%20OATP%20v1.0-RC.en.md)**
 
 ## ⚡ Key Technologies
 
